@@ -118,3 +118,18 @@ footer p{
 a:hover i{/*mouse acima de links, altera a cor dos ícones*/
 color:#C1B696;
 }
+
+/*CONTATOS*/
+#imagem-contato{
+    background-image: url(/img/pexels-axel-grollemund-1122335.jpg);
+    height: 300px;
+    margin-bottom: 50px;
+    position: relative;
+}
+.info-imagem-contato{
+    position: absolute;
+    background-color: white;
+    padding: 5px;
+    right: 25px;
+bottom: 25px;
+}
