@@ -117,8 +117,6 @@ footer p{
  }
 a:hover i{/*mouse acima de links, altera a cor dos ícones*/
 color:#C1B696;
-<<<<<<< Updated upstream
-=======
 }
 
 /*CONTATOS*/
@@ -170,5 +168,4 @@ margin: 40px 0;
 }
 #conteudo-projetos{
     margin: 0 auto;
->>>>>>> Stashed changes
 }
