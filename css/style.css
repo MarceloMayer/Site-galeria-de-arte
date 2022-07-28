@@ -133,3 +133,39 @@ color:#C1B696;
     right: 25px;
 bottom: 25px;
 }
+/*PROJETOS*/
+#paragrafo1::first-letter{
+    color: red;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#titulo-projetos h2{
+margin: 40px 0;
+}
+#titulo-projetos{
+    text-align: center;
+    border-bottom:1px solid #ccc;
+    margin-bottom: 50px;
+}
+#imagem-projeto{
+    background-image: url(/img/pexels-cottonbro-3662630.jpg);
+    height: 500px;
+}
+#texto-projeto{
+    padding: 30px;
+}
+#texto-projeto p{
+   margin-bottom: 40px;
+}
+.container-projetos{
+    margin-bottom: 80px;
+}
+#conteudo-projetos{
+    max-width: 700px;
+}
+#conteudo-projetos{
+    margin: 0 auto;
+}
