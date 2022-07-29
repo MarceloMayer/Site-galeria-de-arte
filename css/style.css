@@ -140,8 +140,6 @@ bottom: 25px;
     font-weight: 600;
     font-family: 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif;
 }
-
-
 #titulo-projetos h2{
 margin: 40px 0;
 }
@@ -165,7 +163,44 @@ margin: 40px 0;
 }
 #conteudo-projetos{
     max-width: 700px;
-}
-#conteudo-projetos{
     margin: 0 auto;
+}
+
+
+/*ARTISTAS*/
+
+.artistas-img{
+    height: 300px;
+    margin-bottom: 40px;
+    max-width: 480px;
+    
+    
+    
+}
+.artistas-texto{
+   
+    margin-top: 20px;
+    max-width: 480px;
+    margin: 0 auto;
+}
+#artista1{
+    background-image: url(/img/artista\ 1\ \(1\).jpg);
+    
+}
+#artista2{
+    background-image: url(/img/artista\ 2.jpg);
+}
+#artista3{
+    background-image: url(/img/artista\ 3.jpg);
+}
+.artistas-conteudo{
+    max-width: 900px;
+    
+}
+.artistas-row{
+    padding: 10px;
+    justify-content:center ;
+    text-align: center;
+    margin-bottom: 50px;
+    
 }
