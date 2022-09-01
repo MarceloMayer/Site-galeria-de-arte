@@ -56,7 +56,7 @@ background-position: center;
 /*MAIN IMAGE*/
 .main-image{
 height: 400px;
-background-image: url(../img/g_1.jpg);
+background-image: url(img/g_1.jpg);
 margin-bottom: 30px;
 position: relative;
 }
@@ -184,14 +184,14 @@ margin: 40px 0;
     margin: 0 auto;
 }
 #artista1{
-    background-image: url(img/artista\ 1\ \(1\).jpg);
+    background-image: url(img/artista 1 (1).jpg);
     
 }
 #artista2{
-    background-image: url(img/artista\ 2.jpg);
+    background-image: url(img/artista 2.jpg);
 }
 #artista3{
-    background-image: url(img/artista\ 3.jpg);
+    background-image: url(img/artista 3.jpg);
 }
 .artistas-conteudo{
     max-width: 900px;
