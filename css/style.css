@@ -69,19 +69,19 @@ bottom: 25px;
 }
 /* GALLERY */
 #img2{
-    background-image: url(../img/g_2.jpg);
+    background-image: url(img/g_2.jpg);
 }
 #img3{
-    background-image: url(../img/g_3.jpg);
+    background-image: url(img/g_3.jpg);
 }
 #img4{
-    background-image: url(../img/g_4.jpg);
+    background-image: url(img/g_4.jpg);
 }
 #img5{
-    background-image: url(../img/g_5.jpg);
+    background-image: url(img/g_5.jpg);
 }
 #img6{
-    background-image: url(../img/g_6.jpg);
+    background-image: url(img/g_6.jpg);
 }
 #gallery-container h1{
     text-align: center;
@@ -121,7 +121,7 @@ color:#C1B696;
 
 /*CONTATOS*/
 #imagem-contato{
-    background-image: url(/img/pexels-axel-grollemund-1122335.jpg);
+    background-image: url(img/pexels-axel-grollemund-1122335.jpg);
     height: 400px;
     margin-bottom: 50px;
     position: relative;
@@ -149,7 +149,7 @@ margin: 40px 0;
     margin-bottom: 50px;
 }
 #imagem-projeto{
-    background-image: url(/img/pexels-cottonbro-3662630.jpg);
+    background-image: url(img/pexels-cottonbro-3662630.jpg);
     height: 500px;
 }
 #texto-projeto{
@@ -184,14 +184,14 @@ margin: 40px 0;
     margin: 0 auto;
 }
 #artista1{
-    background-image: url(/img/artista\ 1\ \(1\).jpg);
+    background-image: url(img/artista\ 1\ \(1\).jpg);
     
 }
 #artista2{
-    background-image: url(/img/artista\ 2.jpg);
+    background-image: url(img/artista\ 2.jpg);
 }
 #artista3{
-    background-image: url(/img/artista\ 3.jpg);
+    background-image: url(img/artista\ 3.jpg);
 }
 .artistas-conteudo{
     max-width: 900px;
